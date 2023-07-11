@@ -14,11 +14,8 @@ const multerStorage = multer.diskStorage({
 
 const multerFilter = (req, file, cb) => {
     const extension = path.extname(file.originalname).toLowerCase();
-    if (['.png', '.jpg', '.jpeg'].includes(extension)) {
-        cb(null, true);
-    } else {
-        cb(new Error('Invalid file type. Only PNG, JPG, and JPEG files are allowed.'));
-    }
+    if (['.png', '.jpg', '.jpeg'].includes(extension)) cb(null, true);
+    else cb(new Error('Invalid file type. Only PNG, JPG, and JPEG files are allowed.'));
 }
 
 const upload = multer({
