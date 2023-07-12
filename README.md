@@ -17,11 +17,11 @@ DB_NAME=''      // and the name of the DB you created
 ``` 
 ## USAGE
 after all the previous steps, it's time to run the server.
-simple in the cmd at the same directory of the files, run this command:
+simply in the cmd at the same directory of the files, run this command:
 ```
 node server.js
 ```
-you should output like this:
+you should see output like this:
 ```
 Server started on port 5000!
 DB Connected Successfully!
