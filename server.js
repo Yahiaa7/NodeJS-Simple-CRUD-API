@@ -15,6 +15,7 @@ dbConnectSync();
 // give the app access to out routes
 app.use('/api', require('./routes/index.routes'));
 
+// Strating the server
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
     console.log(`Server started on port ${PORT}!`);
