@@ -16,7 +16,7 @@ cd NodeJS-Simple-CRUD-API
 ```
 npm install
 ```
-* Then you have to create a MySQL Database, and modify the .env file with this enviroment variables:
+* Then you have to create a MySQL Database, and create the .env file with this enviroment variables:
 ```
 PORT=5000       // default port, you can choose your own
 DB_HOST=''      // localhost
