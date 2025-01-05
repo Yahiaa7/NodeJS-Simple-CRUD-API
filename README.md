@@ -4,7 +4,15 @@ This is a simple CRUD server using NodeJS, MySQL, and Sequelize for items.
 it also has an image upload methodology using Multer lib.
 
 ## Installation
-First thing is to install node_modules on your project directory by running this command in cmd in the same directory
+
+Install the NodeJS Simple CRUD API Project as follows:
+
+* Clone the repo using the following command:
+```bash
+git clone https://github.com/Yahiaa7/NodeJS-Simple-CRUD-API.git
+cd NodeJS-Simple-CRUD-API
+```
+* Then you need to install node_modules by running this command in Terminal in the project directory:
 ```
 npm install
 ```
