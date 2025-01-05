@@ -4,11 +4,19 @@ This is a simple CRUD server using NodeJS, MySQL, and Sequelize for items.
 it also has an image upload methodology using Multer lib.
 
 ## Installation
-First thing is to install node_modules on your project directory by running this command in cmd in the same directory
+
+Install the NodeJS Simple CRUD API Project as follows:
+
+* Clone the repo using the following command:
+```bash
+git clone https://github.com/Yahiaa7/NodeJS-Simple-CRUD-API.git
+cd NodeJS-Simple-CRUD-API
+```
+* Then you need to install node_modules by running this command in Terminal in the project directory:
 ```
 npm install
 ```
-Then you have to create a MySQL Database, and modify the .env file with this enviroment variables:
+* Then you have to create a MySQL Database, and modify the .env file with this enviroment variables:
 ```
 PORT=5000       // default port, you can choose your own
 DB_HOST=''      // localhost
@@ -18,23 +26,23 @@ DB_NAME=''      // Name of the DB you created
 ``` 
 ## USAGE
 Now you are all setup.
-Simply run this command to start the server:
+* Simply run this command to start the server:
 ```
 node server.js
 ```
-you should see an output like this:
+* You should see an output like this:
 ```
 Server started on port 5000!
 DB Connected Successfully!
 DB Synced!
 ```
-and you are good to go.
+And you are good to go.
 
 You can test the API routes on Postman or something with the same functionality.
 
 
 ## Routes Table
-Here is the list of the available routes you can test:
+* Here is the list of the available routes you can test:
 
 | Route             | Method | Description                            |
 | ----------------- | ------ | -------------------------------------- |
