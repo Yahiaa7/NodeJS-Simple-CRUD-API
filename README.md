@@ -16,7 +16,7 @@ cd NodeJS-Simple-CRUD-API
 ```
 npm install
 ```
-Then you have to create a MySQL Database, and modify the .env file with this enviroment variables:
+* Then you have to create a MySQL Database, and modify the .env file with this enviroment variables:
 ```
 PORT=5000       // default port, you can choose your own
 DB_HOST=''      // localhost
@@ -26,23 +26,23 @@ DB_NAME=''      // Name of the DB you created
 ``` 
 ## USAGE
 Now you are all setup.
-Simply run this command to start the server:
+* Simply run this command to start the server:
 ```
 node server.js
 ```
-you should see an output like this:
+* You should see an output like this:
 ```
 Server started on port 5000!
 DB Connected Successfully!
 DB Synced!
 ```
-and you are good to go.
+And you are good to go.
 
 You can test the API routes on Postman or something with the same functionality.
 
 
 ## Routes Table
-Here is the list of the available routes you can test:
+* Here is the list of the available routes you can test:
 
 | Route             | Method | Description                            |
 | ----------------- | ------ | -------------------------------------- |
