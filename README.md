@@ -18,12 +18,7 @@ DB_NAME=''      // Name of the DB you created
 ``` 
 ## USAGE
 Now you are all setup.
-You need to install the project dependencies.
-Open CMD or Terminal in your project directory and this command:
-```
-npm install
-```
-Then simply run this command to start the server:
+Simply run this command to start the server:
 ```
 node server.js
 ```
@@ -36,11 +31,10 @@ DB Synced!
 and you are good to go.
 
 You can test the API routes on Postman or something with the same functionality.
+
+
+## Routes Table
 Here is the list of the available routes you can test:
-
-### Routes Table
-
-### Routes Table
 
 | Route             | Method | Description                            |
 | ----------------- | ------ | -------------------------------------- |
