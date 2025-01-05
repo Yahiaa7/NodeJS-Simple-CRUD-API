@@ -12,12 +12,9 @@ app.use('/images', express.static('images'));
 // connect and sync the DB 
 dbConnectSync();
 
-// give the app access to out routes
+// give the app access to our routes
 app.use('/api', require('./routes/index.routes'));
 
-// Strating the server
+// Starting the server
 const PORT = process.env.PORT || 5000;
-app.listen(PORT, () => {
-    console.log(`Server started on port ${PORT}!`);
-});
-
+app.listen(PORT, () => console.log(`Server started on port ${PORT}!`));
