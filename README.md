@@ -49,7 +49,7 @@ A simple Node.js and Express API demonstrating basic CRUD operations, database c
 - **Endpoint:** `POST /api/createItem`
 - **Request Body - form-data:**
 
-  ![create item form-data](./screenshots/api_workflow.png)
+  ![create item form-data](![image](https://github.com/user-attachments/assets/407d81fc-f1e2-47d7-873c-919be090ae7d))
 
 - **Response:**
   ```json
@@ -155,4 +155,11 @@ Created by [Yahiaa7](https://github.com/Yahiaa7) - feel free to contact me!
 
 ## Screenshots
 
-![API Workflow](./screenshots/api_workflow.png)
+![API Workflow]
+![image](https://github.com/user-attachments/assets/aff11e03-340f-43cb-bb7a-06aa2e933b82)
+![image](https://github.com/user-attachments/assets/d67141d4-24e7-4908-8120-7ccbe8a6393b)
+![image](https://github.com/user-attachments/assets/6dfb0c59-086e-453f-a5f0-cb82b0843938)
+![image](https://github.com/user-attachments/assets/0f7c4789-a742-4201-a7fc-f32257b07df7)
+
+
+
