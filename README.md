@@ -7,8 +7,6 @@ A simple Node.js and Express API demonstrating basic CRUD operations, database c
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Installation
