@@ -17,7 +17,7 @@ module.exports.createItem = async (req, res) => {
 module.exports.listItems = async (req, res) => {
     try {
         const page = parseInt(req.query.page, 10) || 1;
-        const pageSize = parseInt(req.query.pageSize, 10) || 10;
+        const pageSize = parseInt(req.query.pageSize, 10) || 5;
         let items = await Item.findAndCountAll({
             offset: (page - 1) * pageSize,
             limit: pageSize
