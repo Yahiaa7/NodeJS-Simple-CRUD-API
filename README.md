@@ -152,6 +152,8 @@ Created by [Yahiaa7](https://github.com/Yahiaa7) - feel free to contact me!
 ![image](https://github.com/user-attachments/assets/12b132ce-82c1-4403-b7d6-7b4c37141d29)
 * Create an item
 ![image](https://github.com/user-attachments/assets/e62f65cf-b0a3-4daf-8d51-607ac21216a2)
+* Get a single item
+![image](https://github.com/user-attachments/assets/f4744f00-61d6-4447-a7ca-cfad53234a0f)
 * Update an item
 ![image](https://github.com/user-attachments/assets/b925559d-b254-4b01-b020-9a88f437ef07)
 * Delete an item
