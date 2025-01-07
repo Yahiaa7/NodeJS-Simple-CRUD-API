@@ -71,45 +71,53 @@ A simple Node.js and Express API demonstrating basic CRUD operations, database c
 - **Endpoint:** `GET /api/listItems`
 - **Response:**
   ```json
-    {
-        "page": 1,
-        "pageSize": 4,
-        "totalPages": 1,
-        "items": [
-            {
-                "id": 1,
-                "name": "item1",
-                "description": "item 1 description",
-                "picture": "images\\item-1736151022270.jpeg",
-                "createdAt": "2025-01-06T08:10:22.000Z",
-                "updatedAt": "2025-01-06T08:10:22.000Z"
-            },
-            {
-                "id": 2,
-                "name": "item2",
-                "description": "item 2 description",
-                "picture": "",
-                "createdAt": "2025-01-06T08:11:01.000Z",
-                "updatedAt": "2025-01-06T08:11:01.000Z"
-            },
-            {
-                "id": 3,
-                "name": "item3",
-                "description": "item 3 description",
-                "picture": "",
-                "createdAt": "2025-01-06T08:11:16.000Z",
-                "updatedAt": "2025-01-06T08:11:16.000Z"
-            },
-            {
-                "id": 4,
-                "name": "item4",
-                "description": "item 4 description",
-                "picture": "images\\item-1736151089629.jpeg",
-                "createdAt": "2025-01-06T08:11:29.000Z",
-                "updatedAt": "2025-01-06T08:11:29.000Z"
-            }
-        ]
-    }
+       {
+          "page": 1,
+          "pageSize": 5,
+          "totalPages": 2,
+          "items": [
+              {
+                  "id": 1,
+                  "name": "item1",
+                  "description": "item 1 description",
+                  "picture": "images\\item-1736151022270.jpeg",
+                  "createdAt": "2025-01-06T08:10:22.000Z",
+                  "updatedAt": "2025-01-06T08:10:22.000Z"
+              },
+              {
+                  "id": 2,
+                  "name": "item2",
+                  "description": "item 2 description",
+                  "picture": "",
+                  "createdAt": "2025-01-06T08:11:01.000Z",
+                  "updatedAt": "2025-01-06T08:11:01.000Z"
+              },
+              {
+                  "id": 5,
+                  "name": "item5",
+                  "description": "item 5 description",
+                  "picture": "images\\item-1736152774319.jpeg",
+                  "createdAt": "2025-01-06T08:39:34.000Z",
+                  "updatedAt": "2025-01-06T08:39:34.000Z"
+              },
+              {
+                  "id": 6,
+                  "name": "Iphone",
+                  "description": "Iphone , color black",
+                  "picture": "images\\item-1736153100116.jpeg",
+                  "createdAt": "2025-01-06T08:45:00.000Z",
+                  "updatedAt": "2025-01-06T08:48:14.000Z"
+              },
+              {
+                  "id": 7,
+                  "name": "Iphone",
+                  "description": "Iphone , color black",
+                  "picture": "images\\item-1736247330861.jpeg",
+                  "createdAt": "2025-01-07T10:55:30.000Z",
+                  "updatedAt": "2025-01-07T10:55:56.000Z"
+              }
+          ]
+   }
   ```
 
 ### View uploaded Image
