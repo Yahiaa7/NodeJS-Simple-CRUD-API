@@ -149,7 +149,7 @@ Created by [Yahiaa7](https://github.com/Yahiaa7) - feel free to contact me!
 ## Screenshots
 
 * List all items
-![image](https://github.com/user-attachments/assets/d83dd813-d5d5-44d7-905c-4a59b17ce3b5)
+![image](https://github.com/user-attachments/assets/12b132ce-82c1-4403-b7d6-7b4c37141d29)
 * Create an item
 ![image](https://github.com/user-attachments/assets/e62f65cf-b0a3-4daf-8d51-607ac21216a2)
 * Update an item
