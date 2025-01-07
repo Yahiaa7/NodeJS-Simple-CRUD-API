@@ -11,7 +11,7 @@ A simple Node.js and Express API demonstrating basic CRUD operations, database c
 
 ## Installation
 
- **Clone the repository:**
+ * **Clone the repository:**
    ```bash
    git clone https://github.com/Yahiaa7/NodeJS-Simple-CRUD-API.git
    cd NodeJS-Simple-CRUD-API
