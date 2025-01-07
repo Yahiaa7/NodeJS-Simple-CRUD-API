@@ -143,10 +143,13 @@ Created by [Yahiaa7](https://github.com/Yahiaa7) - feel free to contact me!
 ## Screenshots
 
 ![API Workflow]
-
-![image](https://github.com/user-attachments/assets/cddfc908-45a8-47ff-8575-adba9f715e91)
+* GET all items
+![image](https://github.com/user-attachments/assets/d83dd813-d5d5-44d7-905c-4a59b17ce3b5)
+* Post Create an item
 ![image](https://github.com/user-attachments/assets/e62f65cf-b0a3-4daf-8d51-607ac21216a2)
+* PUT Update an item
 ![image](https://github.com/user-attachments/assets/b925559d-b254-4b01-b020-9a88f437ef07)
+* DELETE an item
 ![image](https://github.com/user-attachments/assets/38043700-17c1-4a22-9dc7-cae794b992cf)
 
 
