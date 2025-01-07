@@ -53,16 +53,16 @@ A simple Node.js and Express API demonstrating basic CRUD operations, database c
 - **Response:**
   ```json
     {
-        "message": "New Item Added Successfully!",
-        "item": {
-            "id": 4,
-            "name": "item4",
-            "description": "item 4 description",
-            "picture": "images\\item-1736151089629.jpeg",
-            "updatedAt": "2025-01-06T08:11:29.630Z",
-            "createdAt": "2025-01-06T08:11:29.630Z"
-        }
-    }
+       "message": "New Item Added Successfully!",
+       "item": {
+           "id": 7,
+           "name": "item7",
+           "description": "item 7 description",
+           "picture": "images\\item-1736247330861.jpeg",
+           "updatedAt": "2025-01-07T10:55:30.868Z",
+           "createdAt": "2025-01-07T10:55:30.868Z"
+       }
+   }
 
   ```
 
