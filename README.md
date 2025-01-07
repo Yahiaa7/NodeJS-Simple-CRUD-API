@@ -49,7 +49,8 @@ A simple Node.js and Express API demonstrating basic CRUD operations, database c
 - **Endpoint:** `POST /api/createItem`
 - **Request Body - form-data:**
 
-  ![create item form-data](![image](https://github.com/user-attachments/assets/407d81fc-f1e2-47d7-873c-919be090ae7d))
+  ![image](https://github.com/user-attachments/assets/0cd402e2-d284-46b2-9220-042d9f5ae707)
+
 
 - **Response:**
   ```json
@@ -128,20 +129,6 @@ Note: All uploaded pictures can be found in the project ```Images``` folder.
 - **Image Upload:** Handles image uploads using Multer.
 - **RESTful Endpoints:** Follows REST architecture principles.
 
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-* Fork the repository.
-* Create a new branch: `git checkout -b feature-name`.
-* Make your changes and commit them: `git commit -m 'Add new feature'`.
-* Push to the branch: `git push origin feature-name`.
-* Submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 Created by [Yahiaa7](https://github.com/Yahiaa7) - feel free to contact me!
@@ -156,10 +143,11 @@ Created by [Yahiaa7](https://github.com/Yahiaa7) - feel free to contact me!
 ## Screenshots
 
 ![API Workflow]
-![image](https://github.com/user-attachments/assets/aff11e03-340f-43cb-bb7a-06aa2e933b82)
-![image](https://github.com/user-attachments/assets/d67141d4-24e7-4908-8120-7ccbe8a6393b)
-![image](https://github.com/user-attachments/assets/6dfb0c59-086e-453f-a5f0-cb82b0843938)
-![image](https://github.com/user-attachments/assets/0f7c4789-a742-4201-a7fc-f32257b07df7)
+
+![image](https://github.com/user-attachments/assets/cddfc908-45a8-47ff-8575-adba9f715e91)
+![image](https://github.com/user-attachments/assets/e62f65cf-b0a3-4daf-8d51-607ac21216a2)
+![image](https://github.com/user-attachments/assets/b925559d-b254-4b01-b020-9a88f437ef07)
+![image](https://github.com/user-attachments/assets/38043700-17c1-4a22-9dc7-cae794b992cf)
 
 
 
